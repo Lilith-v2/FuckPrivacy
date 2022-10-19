@@ -24,13 +24,13 @@ This is a tool to demonstrate Discord's pure incompetence.
 
 ## Advanced Mode
 
-✅Checks for payment method and dumps to file
-✅Creates file for each user
-✅Checks for server ownership and dumps friends
-✅Parses and dumps DMs to folder
-❌No sorting of tokens
+✅Checks for payment method and dumps to file<br> 
+✅Creates file for each user<br>
+✅Checks for server ownership and dumps friends<br>
+✅Parses and dumps DMs to folder<br>
+❌No sorting of tokens<br>
 
 ## Normal Mode
 
-✅Sorts tokens for payment method, verification status, etc
-✅Faster than Advanced mode
+✅Sorts tokens for payment method, verification status, etc<br>
+✅Faster than Advanced mode<br>
